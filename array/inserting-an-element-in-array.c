@@ -1,8 +1,8 @@
 /**************************************
  * Inserting an element in an array   *
- * Time complexity(best case): O(1)   *	
- *                (worst case): O(n)  *
- * Space complexity: O(n)             *
+ * Best Time Complexity: O(1)         *	
+ * Worst Time Complexity: O(n)        *
+ * Average Time Complexity: O(n)      *
  *************************************/
 
 #include <stdio.h>
@@ -41,9 +41,6 @@ int main(void){
  * Expected Output
  * 100 10 20 40 50 30
  *
- * Actual Output
- * 100 10 20 40 50 30
- *
  * **************************
  * Test case2:
  * Input
@@ -55,9 +52,6 @@ int main(void){
  * Expected Output
  * 1 5 7 8 100 10 12 45 67 82 13
  * 
- * Actual Output
- * 1 5 7 8 100 10 12 45 67 82 13
- * 
  * **************************
  * Test case3:
  * Input
@@ -67,8 +61,5 @@ int main(void){
  * 100
  *
  * Expected Output
- * 1 2 3 4 5 100
- *
- * Actual Output
  * 1 2 3 4 5 100
  * **************************/
